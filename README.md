@@ -8,6 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ##this is an edit for readme
 - added the pipeline for the CICD project
 - this is a new one
+- this is the latest one 
 
 
 
