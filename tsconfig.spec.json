@@ -11,4 +11,9 @@
     "src/**/*.spec.ts",
     "src/**/*.d.ts"
   ]
+  "exclude": [
+    "node_modules",
+    "src/**/*.e2e-spec.ts",
+    "./out-tsc/spec"
+  ]
 }
